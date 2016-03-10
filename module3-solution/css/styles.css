@@ -1,0 +1,36 @@
+p {
+    font-size: 0.45em;
+}
+
+.navbar-default .navbar-brand {
+    font-size: 2em;
+    color: black;
+}
+
+.container-fluid > .row > div > div {
+    margin: 10px;
+    padding: 5px 15px 10px 15px;
+    background-color: grey;
+    color: black;
+}
+
+li {
+    border: 1px solid black;
+    background-color: white;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: black;    
+}
+
+.navbar-header {
+    background-color: dimgray;
+    padding: 10px;
+}
+
+.navbar-default{
+    background-color: dimgray;
+}
+
+.nav .navbar-nav .navbar-right {
+}
